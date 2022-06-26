@@ -1,0 +1,114 @@
+#container {
+    margin: 0 150px;
+    font-family: 'Heebo', 'Nunito Sans', sans-serif;
+
+}
+
+.color {
+    border: 2px solid darkgrey;
+    width: 1200px;
+    padding: 10px;
+}
+
+.color-blocks {
+    margin-right: 10px;
+    line-height: 40px;
+
+
+}
+
+.color-block {
+    width: 32%;
+    display: inline-block;
+    height: 100px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.coolblue {
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+}
+
+.pink {
+    border: 1px solid pink;
+    background-color: pink;
+
+
+}
+
+.mintgreen {
+    border: 1px solid mediumspringgreen;
+    background-color: mediumspringgreen;
+
+}
+
+.beige {
+    border: 1px solid beige;
+    background-color: burlywood;
+}
+
+.main-p {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.font {
+    border: 2px solid darkgrey;
+    width: 1200px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+
+.jumps {
+    width: 45%;
+    display: inline-block;
+}
+
+.lazydog {
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+
+.source-2 {
+
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+}
+
+.source-3 {
+    font-style: italic;
+}
+
+.lazyfox {
+
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.nunito-2 {
+    font-weight: bold;
+}
+
+.nunito-3 {
+    font-style: italic;
+}
+
+.brownfox {
+    font-family: 'Heebo', 'Nunito Sans', sans-serif;
+}
+
+.poppins-2 {
+    font-weight: bold;
+}
+
+.poppins-3 {
+    font-style: italic;
+}
+
+.textstyle {
+    border: 2px solid darkgrey;
+    width: 1200px;
+    padding: 10px;
+}
